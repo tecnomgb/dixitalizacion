@@ -1,7 +1,39 @@
+<!DOCTYPE html>
+<html lang="gl">
+<head>
+    <meta charset="UTF-8">
+    <title>Visualizador Flash - Ruffle</title>
+    <style>
+        #flash-container {
+            width: 100%;
+            max-width: 1080px;
+            height: 720px;
+            margin: 0 auto;
+        }
+    </style>
+</head>
 <body>
-    <center> <object>
-        <embed src="https://tecnomgb.github.io/dixitalizacion/combinado.swf" width="1080" />
-    </object>
-        </center>
+
+    <div id="flash-container"></div>
+
     <script src="https://unpkg.com/@ruffle-rs/ruffle"></script>
+    
+    <script>
+        window.RufflePlayer = window.RufflePlayer || {};
+        window.addEventListener("load", (event) => {
+            const ruffle = window.RufflePlayer.newest();
+            const player = ruffle.createPlayer();
+            const container = document.getElementById("flash-container");
+            container.appendChild(player);
+            
+            // Cargamos o teu ficheiro .swf
+            player.load({
+                url: "https://tecnomgb.github.io/dixitalizacion/combinado.swf",
+                backgroundColor: "#ffffff",
+                autoplay: "on",
+                unmuteOverlay: "hidden"
+            });
+        });
+    </script>
 </body>
+</html>
