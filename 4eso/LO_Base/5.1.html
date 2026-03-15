@@ -1,1 +1,37 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Video HTML5 Responsivo</title>
+    <style>
+        /* Estilos del video (Apartado 2) */
+        .video-responsivo {
+            width: 100%;    /* No supera el ancho de su contenedor */
+            height: auto;       /* Mantiene la proporción original */
+            display: block;     /* Elimina espacios en blanco inferiores */
+            margin: 5px auto;  /* Centra el video y añade margen arriba/abajo */
+            border-radius: 8px; /* Bordes redondeados estéticos */
+            box-shadow: 0 4px 15px rgba(0,0,0,0.2); /* Sombra suave */
+        }
+
+        /* Contenedor opcional para limitar el tamaño máximo en pantallas grandes */
+        .contenedor-video {
+            max-width: 1280px; 
+            margin: 0 auto;
+            padding: 20px;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="contenedor-video">
+        <video controls class="video-responsivo">
+            <source src="https://boxabalar.edu.xunta.gal/index.php/s/eWCfQ2kaWbX2PCZ/download/5.1.mp4" type="video/mp4">
+            Tu navegador no soporta la reproducción de video en HTML5.
+        </video>
+    </div>
+
+</body>
+</html>
 
