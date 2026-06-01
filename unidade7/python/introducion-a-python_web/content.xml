@@ -1,0 +1,455 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>nova</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260602000812GBS481</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>202606020008127N5LDL</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Introdución a Python</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>gl</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>nova</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1780348210910</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mpvp4v07-lblbb96gx</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Actividade 1</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividade 1</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>New page</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Actividade 1</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpvp4v07-lblbb96gx</odePageId>
+      <odeBlockId>block-1779790300749-ld5phqm6y</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpvp4v07-lblbb96gx</odePageId>
+          <odeBlockId>block-1779790300749-ld5phqm6y</odeBlockId>
+          <odeIdeviceId>idevice-1779790300747-c2cxszybq</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><p style="text-align: justify;">Empregando o <a href="https://es.wikipedia.org/wiki/Entorno_de_desarrollo_integrado" target="_blank" title="" rel="noopener">IDE</a> de Python chamado <strong>Thonny</strong> ( <em>Aplicacións → Programación → Thonny </em>) e a partir do ficheiro modelo .py adxunto máis abaixo, crea un programa que ao executarse faga aparecer en pantalla a mensaxe seguinte:</p>
+<ul style="text-align: justify;">
+<li title="actividade1.py">Ao comezo do ficheiro fonte deberá haber un comentario no que indiques o teu nome e apelidos, curso e grupo e número de actividade.</li>
+<li title="actividade1.py">Unha primeira liña de texto correspondente a unha mensaxe de saúdo</li>
+<li title="actividade1.py">Unha segunda liña de texto informando do teu nome e apelidos.</li>
+<li>Unha terceira liña que informe do centro, curso e grupo no que estás actualmente.<br /></li>
+</ul>
+<p style="text-align: justify;"><span style="color: #e03e2d;">Ao rematar de editar o código e comprobar o correcto funcionamento do teu programa, súbeo á correspondente tarefa da aula virtual.</span></p><div class="iDevice_buttons feedback-button js-required"><input type="button" class="feedbacktooglebutton" value="Ficheiro modelo" data-text-a="Ficheiro modelo" data-text-b="Ficheiro modelo"></div><div class="feedback js-feedback js-hidden" style="display: none;"><p><a href="{{context_path}}/content/resources/actividade1.py" title="actividade1.py" target="_blank" rel="noopener">Actividade1</a></p></div></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779790300747-c2cxszybq","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamento","textTextarea":"<div class=\"exe-text-activity\"><p style=\"text-align: justify;\">Empregando o <a href=\"https://es.wikipedia.org/wiki/Entorno_de_desarrollo_integrado\" target=\"_blank\" title=\"\" rel=\"noopener\">IDE</a> de Python chamado <strong>Thonny</strong> ( <em>Aplicacións → Programación → Thonny </em>) e a partir do ficheiro modelo .py adxunto máis abaixo, crea un programa que ao executarse faga aparecer en pantalla a mensaxe seguinte:</p>\n<ul style=\"text-align: justify;\">\n<li title=\"actividade1.py\">Ao comezo do ficheiro fonte deberá haber un comentario no que indiques o teu nome e apelidos, curso e grupo e número de actividade.</li>\n<li title=\"actividade1.py\">Unha primeira liña de texto correspondente a unha mensaxe de saúdo</li>\n<li title=\"actividade1.py\">Unha segunda liña de texto informando do teu nome e apelidos.</li>\n<li>Unha terceira liña que informe do centro, curso e grupo no que estás actualmente.<br /></li>\n</ul>\n<p style=\"text-align: justify;\"><span style=\"color: #e03e2d;\">Ao rematar de editar o código e comprobar o correcto funcionamento do teu programa, súbeo á correspondente tarefa da aula virtual.</span></p><div class=\"iDevice_buttons feedback-button js-required\"><input type=\"button\" class=\"feedbacktooglebutton\" value=\"Ficheiro modelo\" data-text-a=\"Ficheiro modelo\" data-text-b=\"Ficheiro modelo\"></div><div class=\"feedback js-feedback js-hidden\" style=\"display: none;\"><p><a href=\"{{context_path}}/content/resources/actividade1.py\" title=\"actividade1.py\" target=\"_blank\" rel=\"noopener\">Actividade1</a></p></div></div>","textFeedbackInput":"Ficheiro modelo","textFeedbackTextarea":"<p><a href=\"{{context_path}}/content/resources/actividade1.py\" title=\"actividade1.py\" target=\"_blank\" rel=\"noopener\">Actividade1</a></p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpvp4v0a-9n5ittbgp</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Actividade 2</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividade 2</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividade 2</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Actividade 2</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpvp4v0a-9n5ittbgp</odePageId>
+      <odeBlockId>block-1779791253433-sxnyf5pkg</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpvp4v0a-9n5ittbgp</odePageId>
+          <odeBlockId>block-1779791253433-sxnyf5pkg</odeBlockId>
+          <odeIdeviceId>idevice-1779791253433-vkxqwvpjf</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><p style="text-align: justify;"><span>Empregando o </span><a href="https://es.wikipedia.org/wiki/Entorno_de_desarrollo_integrado" target="_blank" title="" rel="noopener">IDE</a><span> de Python chamado </span><strong>Thonny</strong><span> ( </span><em>Aplicacións → Programación → Thonny<span> </span></em><span>) e a partir do ficheiro modelo .py adxunto máis abaixo, crea un programa que cumpra os seguintes requisitos:</span></p>
+<ul style="text-align: justify;">
+<li title="actividade1.py">Ao comezo do ficheiro fonte deberá haber un comentario no que indiques o teu nome e apelidos, curso e grupo e número de actividade.</li>
+<li title="actividade1.py">Ao executar o programa debe aparecer unha primeira mensaxe na que se presente o programa saudando.</li>
+<li title="actividade1.py">A continuación debe aparecer en pantalla unha mensaxe preguntando o nome ao usuario.</li>
+<li title="actividade1.py">O programa deberá almacenar o nome tecleado polo usuario nunha variable que se chamará <em>nome_usuario</em>.</li>
+<li>Finalmente deberá amosar unha última mensaxe de despedida dando as grazas pola información. No texto da mensaxe de despedida deberá aparecer o nome tecleado polo usuario, é dicir, o valor de texto contido na variable <em>nome_usuario</em>.<br /></li>
+</ul>
+<p style="text-align: justify;"><span style="color: #e03e2d;">Ao rematar de editar o código e comprobar o correcto funcionamento do teu programa, súbeo á correspondente tarefa da aula virtual.</span></p>
+<p style="text-align: justify;"><br /></p><div class="iDevice_buttons feedback-button js-required"><input type="button" class="feedbacktooglebutton" value="Ficheiro modelo" data-text-a="Ficheiro modelo" data-text-b="Ficheiro modelo"></div><div class="feedback js-feedback js-hidden" style="display: none;"><p><a title="actividade2.py" target="_blank" href="{{context_path}}/content/resources/actividade2.py" rel="noopener">Actividade2</a></p></div></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779791253433-vkxqwvpjf","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamento","textTextarea":"<div class=\"exe-text-activity\"><p style=\"text-align: justify;\"><span>Empregando o </span><a href=\"https://es.wikipedia.org/wiki/Entorno_de_desarrollo_integrado\" target=\"_blank\" title=\"\" rel=\"noopener\">IDE</a><span> de Python chamado </span><strong>Thonny</strong><span> ( </span><em>Aplicacións → Programación → Thonny<span> </span></em><span>) e a partir do ficheiro modelo .py adxunto máis abaixo, crea un programa que cumpra os seguintes requisitos:</span></p>\n<ul style=\"text-align: justify;\">\n<li title=\"actividade1.py\">Ao comezo do ficheiro fonte deberá haber un comentario no que indiques o teu nome e apelidos, curso e grupo e número de actividade.</li>\n<li title=\"actividade1.py\">Ao executar o programa debe aparecer unha primeira mensaxe na que se presente o programa saudando.</li>\n<li title=\"actividade1.py\">A continuación debe aparecer en pantalla unha mensaxe preguntando o nome ao usuario.</li>\n<li title=\"actividade1.py\">O programa deberá almacenar o nome tecleado polo usuario nunha variable que se chamará <em>nome_usuario</em>.</li>\n<li>Finalmente deberá amosar unha última mensaxe de despedida dando as grazas pola información. No texto da mensaxe de despedida deberá aparecer o nome tecleado polo usuario, é dicir, o valor de texto contido na variable <em>nome_usuario</em>.<br /></li>\n</ul>\n<p style=\"text-align: justify;\"><span style=\"color: #e03e2d;\">Ao rematar de editar o código e comprobar o correcto funcionamento do teu programa, súbeo á correspondente tarefa da aula virtual.</span></p>\n<p style=\"text-align: justify;\"><br /></p><div class=\"iDevice_buttons feedback-button js-required\"><input type=\"button\" class=\"feedbacktooglebutton\" value=\"Ficheiro modelo\" data-text-a=\"Ficheiro modelo\" data-text-b=\"Ficheiro modelo\"></div><div class=\"feedback js-feedback js-hidden\" style=\"display: none;\"><p><a title=\"actividade2.py\" target=\"_blank\" href=\"{{context_path}}/content/resources/actividade2.py\" rel=\"noopener\">Actividade2</a></p></div></div>","textFeedbackInput":"Ficheiro modelo","textFeedbackTextarea":"<p><a title=\"actividade2.py\" target=\"_blank\" href=\"{{context_path}}/content/resources/actividade2.py\" rel=\"noopener\">Actividade2</a></p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1780350488754-sl05cqxur</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Actividade 3</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividade 3</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Actividade 3</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780350488754-sl05cqxur</odePageId>
+      <odeBlockId>block-1780350488754-kx5y9557n</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780350488754-sl05cqxur</odePageId>
+          <odeBlockId>block-1780350488754-kx5y9557n</odeBlockId>
+          <odeIdeviceId>idevice-1780350488755-4k72bd9x4</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;"><span>Empregando o </span><a href="https://es.wikipedia.org/wiki/Entorno_de_desarrollo_integrado" target="_blank" title="" rel="noopener">IDE</a><span> de Python chamado </span><strong>Thonny</strong><span> ( </span><em>Aplicacións → Programación → Thonny<span> </span></em><span>), abre o ficheiro que entregaches na actividade 2 e gárdao co nome actividade3.py. A continuación crea nel un programa que cumpra os seguintes requisitos:</span></p>
+<ul style="text-align: justify;">
+<li title="actividade1.py">Ao comezo do ficheiro fonte deberá haber un comentario no que indiques o teu nome e apelidos, curso e grupo e número de actividade.</li>
+<li title="actividade1.py">Ao executar o programa debe aparecer unha primeira mensaxe na que se presente o programa saudando.</li>
+<li title="actividade1.py">A continuación debe aparecer en pantalla unha mensaxe preguntando ao usuario en que ano naceu.</li>
+<li title="actividade1.py">O programa deberá almacenar o ano de nacemento tecleado polo usuario nunha variable que se chamará <em>nacemento_usuario</em>.</li>
+<li title="actividade1.py">A continuación deberá calcular a idade do usuario en anos almacenando o resultado nunha nova variable que se chamará <em>idade_usuario</em>.</li>
+<li>Finalmente deberá amosar unha última mensaxe de despedida dando as grazas pola información. No texto da mensaxe de despedida deberá aparecer un texto informando ao usuario de cantos anos calcula que ten, é dicir, o valor de texto contido na variable correspondente.<br /></li>
+</ul>
+<p style="text-align: justify;"><span style="color: #e03e2d;">Ao rematar de editar o código e comprobar o correcto funcionamento do teu programa, súbeo á correspondente tarefa da aula virtual.</span></p>
+<p style="text-align: justify;"><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780350488755-4k72bd9x4","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamento","textTextarea":"<p style=\"text-align: justify;\"><span>Empregando o </span><a href=\"https://es.wikipedia.org/wiki/Entorno_de_desarrollo_integrado\" target=\"_blank\" title=\"\" rel=\"noopener\">IDE</a><span> de Python chamado </span><strong>Thonny</strong><span> ( </span><em>Aplicacións → Programación → Thonny<span> </span></em><span>), abre o ficheiro que entregaches na actividade 2 e gárdao co nome actividade3.py. A continuación crea nel un programa que cumpra os seguintes requisitos:</span></p>\n<ul style=\"text-align: justify;\">\n<li title=\"actividade1.py\">Ao comezo do ficheiro fonte deberá haber un comentario no que indiques o teu nome e apelidos, curso e grupo e número de actividade.</li>\n<li title=\"actividade1.py\">Ao executar o programa debe aparecer unha primeira mensaxe na que se presente o programa saudando.</li>\n<li title=\"actividade1.py\">A continuación debe aparecer en pantalla unha mensaxe preguntando ao usuario en que ano naceu.</li>\n<li title=\"actividade1.py\">O programa deberá almacenar o ano de nacemento tecleado polo usuario nunha variable que se chamará <em>nacemento_usuario</em>.</li>\n<li title=\"actividade1.py\">A continuación deberá calcular a idade do usuario en anos almacenando o resultado nunha nova variable que se chamará <em>idade_usuario</em>.</li>\n<li>Finalmente deberá amosar unha última mensaxe de despedida dando as grazas pola información. No texto da mensaxe de despedida deberá aparecer un texto informando ao usuario de cantos anos calcula que ten, é dicir, o valor de texto contido na variable correspondente.<br /></li>\n</ul>\n<p style=\"text-align: justify;\"><span style=\"color: #e03e2d;\">Ao rematar de editar o código e comprobar o correcto funcionamento do teu programa, súbeo á correspondente tarefa da aula virtual.</span></p>\n<p style=\"text-align: justify;\"><br /></p>","textFeedbackInput":"","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1780351246102-q9o7m39lr</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Actividade 4</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividade 4</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Actividade 4</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780351246102-q9o7m39lr</odePageId>
+      <odeBlockId>block-1780351246102-1bczobcw1</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780351246102-q9o7m39lr</odePageId>
+          <odeBlockId>block-1780351246102-1bczobcw1</odeBlockId>
+          <odeIdeviceId>idevice-1780351246102-tvi27i71x</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><p style="text-align: justify;"><span>Empregando o </span><a href="https://es.wikipedia.org/wiki/Entorno_de_desarrollo_integrado" target="_blank" title="" rel="noopener">IDE</a><span> de Python chamado </span><strong>Thonny</strong><span> ( </span><em>Aplicacións → Programación → Thonny<span> </span></em><span>), abre o ficheiro modelo adxunto máis abaixo co nome <strong>actividade4.py</strong>. A continuación crea nel un programa que cumpra os seguintes requisitos:</span></p>
+<ul style="text-align: justify;">
+<li title="actividade1.py">Ao comezo do ficheiro fonte deberá haber un comentario no que indiques o teu nome e apelidos, curso e grupo e número de actividade.</li>
+<li title="actividade1.py">Ao executar o programa debe aparecer unha primeira mensaxe na que o programa informe que é quen de realizar a suma de dous números.</li>
+<li title="actividade1.py">A continuación debe aparecer en pantalla unha mensaxe preguntando ao usuario polo valor do primeiro número, que chamaremos a.</li>
+<li title="actividade1.py">Despois, nunha nova mensaxe, preguntará polo valor do segundo número, que chamaremos b.</li>
+<li title="actividade1.py">O programa deberá almacenar o resultado da suma dos dous números nunha variable que se chamará como ti desexes.</li>
+<li title="actividade1.py">Finalmente deberá amosar unha última mensaxe indicando o resultado da suma dos dous número proporcionados polo usuario.<br /></li>
+</ul>
+<p style="text-align: justify;"><span style="color: #e03e2d;">Ao rematar de editar o código e comprobar o correcto funcionamento do teu programa, súbeo á correspondente tarefa da aula virtual.</span></p><div class="iDevice_buttons feedback-button js-required"><input type="button" class="feedbacktooglebutton" value="Ficheiro modelo" data-text-a="Ficheiro modelo" data-text-b="Ficheiro modelo"></div><div class="feedback js-feedback js-hidden" style="display: none;"><p><a href="{{context_path}}/content/resources/actividade4.py" title="actividade4.py" target="_blank" rel="noopener">Actividade4</a></p></div></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780351246102-tvi27i71x","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamento","textTextarea":"<div class=\"exe-text-activity\"><p style=\"text-align: justify;\"><span>Empregando o </span><a href=\"https://es.wikipedia.org/wiki/Entorno_de_desarrollo_integrado\" target=\"_blank\" title=\"\" rel=\"noopener\">IDE</a><span> de Python chamado </span><strong>Thonny</strong><span> ( </span><em>Aplicacións → Programación → Thonny<span> </span></em><span>), abre o ficheiro modelo adxunto máis abaixo co nome <strong>actividade4.py</strong>. A continuación crea nel un programa que cumpra os seguintes requisitos:</span></p>\n<ul style=\"text-align: justify;\">\n<li title=\"actividade1.py\">Ao comezo do ficheiro fonte deberá haber un comentario no que indiques o teu nome e apelidos, curso e grupo e número de actividade.</li>\n<li title=\"actividade1.py\">Ao executar o programa debe aparecer unha primeira mensaxe na que o programa informe que é quen de realizar a suma de dous números.</li>\n<li title=\"actividade1.py\">A continuación debe aparecer en pantalla unha mensaxe preguntando ao usuario polo valor do primeiro número, que chamaremos a.</li>\n<li title=\"actividade1.py\">Despois, nunha nova mensaxe, preguntará polo valor do segundo número, que chamaremos b.</li>\n<li title=\"actividade1.py\">O programa deberá almacenar o resultado da suma dos dous números nunha variable que se chamará como ti desexes.</li>\n<li title=\"actividade1.py\">Finalmente deberá amosar unha última mensaxe indicando o resultado da suma dos dous número proporcionados polo usuario.<br /></li>\n</ul>\n<p style=\"text-align: justify;\"><span style=\"color: #e03e2d;\">Ao rematar de editar o código e comprobar o correcto funcionamento do teu programa, súbeo á correspondente tarefa da aula virtual.</span></p><div class=\"iDevice_buttons feedback-button js-required\"><input type=\"button\" class=\"feedbacktooglebutton\" value=\"Ficheiro modelo\" data-text-a=\"Ficheiro modelo\" data-text-b=\"Ficheiro modelo\"></div><div class=\"feedback js-feedback js-hidden\" style=\"display: none;\"><p><a href=\"{{context_path}}/content/resources/actividade4.py\" title=\"actividade4.py\" target=\"_blank\" rel=\"noopener\">Actividade4</a></p></div></div>","textFeedbackInput":"Ficheiro modelo","textFeedbackTextarea":"<p><a href=\"{{context_path}}/content/resources/actividade4.py\" title=\"actividade4.py\" target=\"_blank\" rel=\"noopener\">Actividade4</a></p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
