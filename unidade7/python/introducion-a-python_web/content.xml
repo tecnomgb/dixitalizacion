@@ -10,11 +10,11 @@
 <odeResources>
   <odeResource>
     <key>odeId</key>
-    <value>20260608162007Z2JSII</value>
+    <value>2026060912350225QCHQ</value>
   </odeResource>
   <odeResource>
     <key>odeVersionId</key>
-    <value>202606081620079BVGAC</value>
+    <value>20260609123502TVV1P0</value>
   </odeResource>
   <odeResource>
     <key>exe_version</key>
@@ -52,7 +52,7 @@
   </odeProperty>
   <odeProperty>
     <key>pp_modified</key>
-    <value>1780928366607</value>
+    <value>1781001011093</value>
   </odeProperty>
   <odeProperty>
     <key>pp_addExeLink</key>
@@ -85,14 +85,14 @@
 </odeProperties>
 <odeNavStructures>
 <odeNavStructure>
-  <odePageId>page-mq5aopr7-kyx0mwetx</odePageId>
+  <odePageId>page-mq6i0n60-0eg23163o</odePageId>
   <odeParentPageId></odeParentPageId>
-  <pageName>Actividade 1</pageName>
+  <pageName>Actividade 01</pageName>
   <odeNavStructureOrder>0</odeNavStructureOrder>
   <odeNavStructureProperties>
     <odeNavStructureProperty>
       <key>titlePage</key>
-      <value>Actividade 1</value>
+      <value>Actividade 01</value>
     </odeNavStructureProperty>
     <odeNavStructureProperty>
       <key>visibility</key>
@@ -116,12 +116,12 @@
     </odeNavStructureProperty>
     <odeNavStructureProperty>
       <key>titleNode</key>
-      <value>Actividade 1</value>
+      <value>Actividade 01</value>
     </odeNavStructureProperty>
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mq5aopr7-kyx0mwetx</odePageId>
+      <odePageId>page-mq6i0n60-0eg23163o</odePageId>
       <odeBlockId>block-1779790300749-ld5phqm6y</odeBlockId>
       <blockName></blockName>
       <iconName></iconName>
@@ -150,7 +150,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mq5aopr7-kyx0mwetx</odePageId>
+          <odePageId>page-mq6i0n60-0eg23163o</odePageId>
           <odeBlockId>block-1779790300749-ld5phqm6y</odeBlockId>
           <odeIdeviceId>idevice-1779790300747-c2cxszybq</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -190,14 +190,14 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mq5aopr9-yk5073ha6</odePageId>
+  <odePageId>page-mq6i0n63-rlapllvav</odePageId>
   <odeParentPageId></odeParentPageId>
-  <pageName>Actividade 2</pageName>
+  <pageName>Actividade 02</pageName>
   <odeNavStructureOrder>1</odeNavStructureOrder>
   <odeNavStructureProperties>
     <odeNavStructureProperty>
       <key>titlePage</key>
-      <value>Actividade 2</value>
+      <value>Actividade 02</value>
     </odeNavStructureProperty>
     <odeNavStructureProperty>
       <key>visibility</key>
@@ -221,12 +221,12 @@
     </odeNavStructureProperty>
     <odeNavStructureProperty>
       <key>titleNode</key>
-      <value>Actividade 2</value>
+      <value>Actividade 02</value>
     </odeNavStructureProperty>
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mq5aopr9-yk5073ha6</odePageId>
+      <odePageId>page-mq6i0n63-rlapllvav</odePageId>
       <odeBlockId>block-1779791253433-sxnyf5pkg</odeBlockId>
       <blockName></blockName>
       <iconName></iconName>
@@ -255,7 +255,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mq5aopr9-yk5073ha6</odePageId>
+          <odePageId>page-mq6i0n63-rlapllvav</odePageId>
           <odeBlockId>block-1779791253433-sxnyf5pkg</odeBlockId>
           <odeIdeviceId>idevice-1779791253433-vkxqwvpjf</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -293,14 +293,14 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mq5aopra-u853yk1v0</odePageId>
+  <odePageId>page-mq6i0n64-as410hjsv</odePageId>
   <odeParentPageId></odeParentPageId>
-  <pageName>Actividade 3</pageName>
+  <pageName>Actividade 03</pageName>
   <odeNavStructureOrder>2</odeNavStructureOrder>
   <odeNavStructureProperties>
     <odeNavStructureProperty>
       <key>titlePage</key>
-      <value>Actividade 3</value>
+      <value>Actividade 03</value>
     </odeNavStructureProperty>
     <odeNavStructureProperty>
       <key>visibility</key>
@@ -324,12 +324,12 @@
     </odeNavStructureProperty>
     <odeNavStructureProperty>
       <key>titleNode</key>
-      <value>Actividade 3</value>
+      <value>Actividade 03</value>
     </odeNavStructureProperty>
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mq5aopra-u853yk1v0</odePageId>
+      <odePageId>page-mq6i0n64-as410hjsv</odePageId>
       <odeBlockId>block-1780350488754-kx5y9557n</odeBlockId>
       <blockName></blockName>
       <iconName></iconName>
@@ -358,7 +358,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mq5aopra-u853yk1v0</odePageId>
+          <odePageId>page-mq6i0n64-as410hjsv</odePageId>
           <odeBlockId>block-1780350488754-kx5y9557n</odeBlockId>
           <odeIdeviceId>idevice-1780350488755-4k72bd9x4</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -397,14 +397,14 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mq5aopra-g53b42gsy</odePageId>
+  <odePageId>page-mq6i0n64-8ii1yo6ac</odePageId>
   <odeParentPageId></odeParentPageId>
-  <pageName>Actividade 4</pageName>
+  <pageName>Actividade 04</pageName>
   <odeNavStructureOrder>3</odeNavStructureOrder>
   <odeNavStructureProperties>
     <odeNavStructureProperty>
       <key>titlePage</key>
-      <value>Actividade 4</value>
+      <value>Actividade 04</value>
     </odeNavStructureProperty>
     <odeNavStructureProperty>
       <key>visibility</key>
@@ -428,12 +428,12 @@
     </odeNavStructureProperty>
     <odeNavStructureProperty>
       <key>titleNode</key>
-      <value>Actividade 4</value>
+      <value>Actividade 04</value>
     </odeNavStructureProperty>
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mq5aopra-g53b42gsy</odePageId>
+      <odePageId>page-mq6i0n64-8ii1yo6ac</odePageId>
       <odeBlockId>block-1780351246102-1bczobcw1</odeBlockId>
       <blockName></blockName>
       <iconName></iconName>
@@ -462,7 +462,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mq5aopra-g53b42gsy</odePageId>
+          <odePageId>page-mq6i0n64-8ii1yo6ac</odePageId>
           <odeBlockId>block-1780351246102-1bczobcw1</odeBlockId>
           <odeIdeviceId>idevice-1780351246102-tvi27i71x</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -500,14 +500,14 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mq5aopra-jgj1jtkw3</odePageId>
+  <odePageId>page-mq6i0n65-ydwqagg34</odePageId>
   <odeParentPageId></odeParentPageId>
-  <pageName>Actividade 5</pageName>
+  <pageName>Actividade 05</pageName>
   <odeNavStructureOrder>4</odeNavStructureOrder>
   <odeNavStructureProperties>
     <odeNavStructureProperty>
       <key>titlePage</key>
-      <value>Actividade 5</value>
+      <value>Actividade 05</value>
     </odeNavStructureProperty>
     <odeNavStructureProperty>
       <key>visibility</key>
@@ -531,12 +531,12 @@
     </odeNavStructureProperty>
     <odeNavStructureProperty>
       <key>titleNode</key>
-      <value>Actividade 5</value>
+      <value>Actividade 05</value>
     </odeNavStructureProperty>
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mq5aopra-jgj1jtkw3</odePageId>
+      <odePageId>page-mq6i0n65-ydwqagg34</odePageId>
       <odeBlockId>block-1780872446686-lpg68yril</odeBlockId>
       <blockName></blockName>
       <iconName></iconName>
@@ -565,7 +565,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mq5aopra-jgj1jtkw3</odePageId>
+          <odePageId>page-mq6i0n65-ydwqagg34</odePageId>
           <odeBlockId>block-1780872446686-lpg68yril</odeBlockId>
           <odeIdeviceId>idevice-1780872446686-y5zy728hx</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -602,14 +602,14 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mq5aoprb-7m7isakgd</odePageId>
+  <odePageId>page-mq6i0n66-eqzy0h206</odePageId>
   <odeParentPageId></odeParentPageId>
-  <pageName>Actividade 6</pageName>
+  <pageName>Actividade 06</pageName>
   <odeNavStructureOrder>5</odeNavStructureOrder>
   <odeNavStructureProperties>
     <odeNavStructureProperty>
       <key>titlePage</key>
-      <value>Actividade 6</value>
+      <value>Actividade 06</value>
     </odeNavStructureProperty>
     <odeNavStructureProperty>
       <key>visibility</key>
@@ -633,12 +633,12 @@
     </odeNavStructureProperty>
     <odeNavStructureProperty>
       <key>titleNode</key>
-      <value>Actividade 6</value>
+      <value>Actividade 06</value>
     </odeNavStructureProperty>
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mq5aoprb-7m7isakgd</odePageId>
+      <odePageId>page-mq6i0n66-eqzy0h206</odePageId>
       <odeBlockId>block-1780873190262-6fb1quy04</odeBlockId>
       <blockName></blockName>
       <iconName></iconName>
@@ -667,7 +667,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mq5aoprb-7m7isakgd</odePageId>
+          <odePageId>page-mq6i0n66-eqzy0h206</odePageId>
           <odeBlockId>block-1780873190262-6fb1quy04</odeBlockId>
           <odeIdeviceId>idevice-1780873190262-b0qm684zj</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -723,14 +723,14 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mq5aoprb-dd5petbya</odePageId>
+  <odePageId>page-mq6i0n66-yepl5pzpb</odePageId>
   <odeParentPageId></odeParentPageId>
-  <pageName>Actividade 7</pageName>
+  <pageName>Actividade 07</pageName>
   <odeNavStructureOrder>6</odeNavStructureOrder>
   <odeNavStructureProperties>
     <odeNavStructureProperty>
       <key>titlePage</key>
-      <value>Actividade 7</value>
+      <value>Actividade 07</value>
     </odeNavStructureProperty>
     <odeNavStructureProperty>
       <key>visibility</key>
@@ -754,12 +754,12 @@
     </odeNavStructureProperty>
     <odeNavStructureProperty>
       <key>titleNode</key>
-      <value>Actividade 7</value>
+      <value>Actividade 07</value>
     </odeNavStructureProperty>
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mq5aoprb-dd5petbya</odePageId>
+      <odePageId>page-mq6i0n66-yepl5pzpb</odePageId>
       <odeBlockId>block-1780874129987-uoxwrq6g9</odeBlockId>
       <blockName></blockName>
       <iconName></iconName>
@@ -788,7 +788,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mq5aoprb-dd5petbya</odePageId>
+          <odePageId>page-mq6i0n66-yepl5pzpb</odePageId>
           <odeBlockId>block-1780874129987-uoxwrq6g9</odeBlockId>
           <odeIdeviceId>idevice-1780874129987-wtkcdmoyh</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -834,14 +834,14 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mq5aoprb-z2nuuuqsz</odePageId>
+  <odePageId>page-mq6i0n67-91lctiocb</odePageId>
   <odeParentPageId></odeParentPageId>
-  <pageName>Actividade 8</pageName>
+  <pageName>Actividade 08</pageName>
   <odeNavStructureOrder>7</odeNavStructureOrder>
   <odeNavStructureProperties>
     <odeNavStructureProperty>
       <key>titlePage</key>
-      <value>Actividade 8</value>
+      <value>Actividade 08</value>
     </odeNavStructureProperty>
     <odeNavStructureProperty>
       <key>visibility</key>
@@ -865,12 +865,12 @@
     </odeNavStructureProperty>
     <odeNavStructureProperty>
       <key>titleNode</key>
-      <value>Actividade 8</value>
+      <value>Actividade 08</value>
     </odeNavStructureProperty>
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mq5aoprb-z2nuuuqsz</odePageId>
+      <odePageId>page-mq6i0n67-91lctiocb</odePageId>
       <odeBlockId>block-1780875010802-45n8xhzsl</odeBlockId>
       <blockName></blockName>
       <iconName></iconName>
@@ -899,28 +899,312 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mq5aoprb-z2nuuuqsz</odePageId>
+          <odePageId>page-mq6i0n67-91lctiocb</odePageId>
           <odeBlockId>block-1780875010802-45n8xhzsl</odeBlockId>
           <odeIdeviceId>idevice-1780875010802-lc0gv7bnw</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-text-template">
-    <div class="exe-text-activity"><p style="text-align: justify;"><span>Empregando o </span><a href="https://es.wikipedia.org/wiki/Entorno_de_desarrollo_integrado" target="_blank" title="" rel="noopener">IDE</a><span> de Python chamado </span><strong>Thonny</strong><span> ( </span><em>Aplicacións → Programación → Thonny<span> </span></em><span>), abre o ficheiro modelo adxunto máis abaixo co nome <strong>actividade8.py</strong>. A continuación crea nel un programa que cumpra os seguintes requisitos:</span></p>
+    <div class="exe-text-activity"><p style="text-align: justify;"><span>Empregando o </span><a href="https://es.wikipedia.org/wiki/Entorno_de_desarrollo_integrado" target="_blank" title="" rel="noopener">IDE</a><span> de Python chamado </span><strong>Thonny</strong><span> ( </span><em>Aplicacións → Programación → Thonny<span> </span></em><span>), abre o ficheiro modelo adxunto máis abaixo co nome <strong>actividade8.py</strong> e gárdao como <strong>actividade8_OTeuNome.py</strong>. A continuación crea nel un programa que cumpra os seguintes requisitos:</span></p>
 <ul style="text-align: justify;">
 <li title="actividade1.py">Ao comezo do ficheiro fonte deberá haber un comentario no que indiques o teu nome e apelidos, curso e grupo e número de actividade.</li>
 <li title="actividade1.py">Ao executar o programa deben aparecer dúas mensaxes na que o programa pregunte por dous valores numéricos ao usuario.</li>
 <li title="actividade1.py">O programa deberá almacenar os valores deses números nas variables que se chamarán <em>a</em> e <em>b</em>.</li>
 <li title="actividade1.py">A continuación o programa preguntará que operación matemática se quere facer con eses dous números, de xeito que:
 <ul style="text-align: justify;">
-<li title="actividade1.py">Se a resposta é s → realizará a suma e deberá aparecer unha mensaxe en pantalla indicando o resultado.</li>
-<li title="actividade1.py">Se a resposta é r → realizará a resta e deberá aparecer unha mensaxe en pantalla indicando o resultado.<br /></li>
-<li title="actividade1.py">Se a resposta é m → realizará a multiplicación e deberá aparecer unha mensaxe en pantalla indicando o resultado.</li>
+<li title="actividade1.py">Se a resposta é<em> s</em> → realizará a suma e deberá aparecer unha mensaxe en pantalla indicando o resultado.</li>
+<li title="actividade1.py">Se a resposta é <em>r</em> → realizará a resta e deberá aparecer unha mensaxe en pantalla indicando o resultado.<br /></li>
+<li title="actividade1.py">Se a resposta é <em>m</em> → realizará a multiplicación e deberá aparecer unha mensaxe en pantalla indicando o resultado.</li>
 <li title="actividade1.py">Se a resposta é diferente a calquera das tres letras anteriores, deberá aparecer unha mensaxe en pantalla indicando que non se escolleu correctamente a opción.<br /></li>
 </ul>
 </li>
 </ul>
 <p style="text-align: justify;"><span style="color: #e03e2d;">Ao rematar de editar o código e comprobar o correcto funcionamento do teu programa, súbeo á correspondente tarefa da aula virtual.</span></p><div class="iDevice_buttons feedback-button js-required"><input type="button" class="feedbacktooglebutton" value="Ficheiro modelo" data-text-a="Ficheiro modelo" data-text-b="Ficheiro modelo"></div><div class="feedback js-feedback js-hidden" style="display: none;"><p><a href="{{context_path}}/content/resources/actividade8.py" title="actividade8.py" target="_blank" rel="noopener">Actividade8</a></p></div></div>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780875010802-lc0gv7bnw","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamento","textTextarea":"<div class=\"exe-text-activity\"><p style=\"text-align: justify;\"><span>Empregando o </span><a href=\"https://es.wikipedia.org/wiki/Entorno_de_desarrollo_integrado\" target=\"_blank\" title=\"\" rel=\"noopener\">IDE</a><span> de Python chamado </span><strong>Thonny</strong><span> ( </span><em>Aplicacións → Programación → Thonny<span> </span></em><span>), abre o ficheiro modelo adxunto máis abaixo co nome <strong>actividade8.py</strong>. A continuación crea nel un programa que cumpra os seguintes requisitos:</span></p>\n<ul style=\"text-align: justify;\">\n<li title=\"actividade1.py\">Ao comezo do ficheiro fonte deberá haber un comentario no que indiques o teu nome e apelidos, curso e grupo e número de actividade.</li>\n<li title=\"actividade1.py\">Ao executar o programa deben aparecer dúas mensaxes na que o programa pregunte por dous valores numéricos ao usuario.</li>\n<li title=\"actividade1.py\">O programa deberá almacenar os valores deses números nas variables que se chamarán <em>a</em> e <em>b</em>.</li>\n<li title=\"actividade1.py\">A continuación o programa preguntará que operación matemática se quere facer con eses dous números, de xeito que:\n<ul style=\"text-align: justify;\">\n<li title=\"actividade1.py\">Se a resposta é s → realizará a suma e deberá aparecer unha mensaxe en pantalla indicando o resultado.</li>\n<li title=\"actividade1.py\">Se a resposta é r → realizará a resta e deberá aparecer unha mensaxe en pantalla indicando o resultado.<br /></li>\n<li title=\"actividade1.py\">Se a resposta é m → realizará a multiplicación e deberá aparecer unha mensaxe en pantalla indicando o resultado.</li>\n<li title=\"actividade1.py\">Se a resposta é diferente a calquera das tres letras anteriores, deberá aparecer unha mensaxe en pantalla indicando que non se escolleu correctamente a opción.<br /></li>\n</ul>\n</li>\n</ul>\n<p style=\"text-align: justify;\"><span style=\"color: #e03e2d;\">Ao rematar de editar o código e comprobar o correcto funcionamento do teu programa, súbeo á correspondente tarefa da aula virtual.</span></p><div class=\"iDevice_buttons feedback-button js-required\"><input type=\"button\" class=\"feedbacktooglebutton\" value=\"Ficheiro modelo\" data-text-a=\"Ficheiro modelo\" data-text-b=\"Ficheiro modelo\"></div><div class=\"feedback js-feedback js-hidden\" style=\"display: none;\"><p><a href=\"{{context_path}}/content/resources/actividade8.py\" title=\"actividade8.py\" target=\"_blank\" rel=\"noopener\">Actividade8</a></p></div></div>","textFeedbackInput":"Ficheiro modelo","textFeedbackTextarea":"<p><a href=\"{{context_path}}/content/resources/actividade8.py\" title=\"actividade8.py\" target=\"_blank\" rel=\"noopener\">Actividade8</a></p>"}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780875010802-lc0gv7bnw","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamento","textTextarea":"<div class=\"exe-text-activity\"><p style=\"text-align: justify;\"><span>Empregando o </span><a href=\"https://es.wikipedia.org/wiki/Entorno_de_desarrollo_integrado\" target=\"_blank\" title=\"\" rel=\"noopener\">IDE</a><span> de Python chamado </span><strong>Thonny</strong><span> ( </span><em>Aplicacións → Programación → Thonny<span> </span></em><span>), abre o ficheiro modelo adxunto máis abaixo co nome <strong>actividade8.py</strong> e gárdao como <strong>actividade8_OTeuNome.py</strong>. A continuación crea nel un programa que cumpra os seguintes requisitos:</span></p>\n<ul style=\"text-align: justify;\">\n<li title=\"actividade1.py\">Ao comezo do ficheiro fonte deberá haber un comentario no que indiques o teu nome e apelidos, curso e grupo e número de actividade.</li>\n<li title=\"actividade1.py\">Ao executar o programa deben aparecer dúas mensaxes na que o programa pregunte por dous valores numéricos ao usuario.</li>\n<li title=\"actividade1.py\">O programa deberá almacenar os valores deses números nas variables que se chamarán <em>a</em> e <em>b</em>.</li>\n<li title=\"actividade1.py\">A continuación o programa preguntará que operación matemática se quere facer con eses dous números, de xeito que:\n<ul style=\"text-align: justify;\">\n<li title=\"actividade1.py\">Se a resposta é<em> s</em> → realizará a suma e deberá aparecer unha mensaxe en pantalla indicando o resultado.</li>\n<li title=\"actividade1.py\">Se a resposta é <em>r</em> → realizará a resta e deberá aparecer unha mensaxe en pantalla indicando o resultado.<br /></li>\n<li title=\"actividade1.py\">Se a resposta é <em>m</em> → realizará a multiplicación e deberá aparecer unha mensaxe en pantalla indicando o resultado.</li>\n<li title=\"actividade1.py\">Se a resposta é diferente a calquera das tres letras anteriores, deberá aparecer unha mensaxe en pantalla indicando que non se escolleu correctamente a opción.<br /></li>\n</ul>\n</li>\n</ul>\n<p style=\"text-align: justify;\"><span style=\"color: #e03e2d;\">Ao rematar de editar o código e comprobar o correcto funcionamento do teu programa, súbeo á correspondente tarefa da aula virtual.</span></p><div class=\"iDevice_buttons feedback-button js-required\"><input type=\"button\" class=\"feedbacktooglebutton\" value=\"Ficheiro modelo\" data-text-a=\"Ficheiro modelo\" data-text-b=\"Ficheiro modelo\"></div><div class=\"feedback js-feedback js-hidden\" style=\"display: none;\"><p><a href=\"{{context_path}}/content/resources/actividade8.py\" title=\"actividade8.py\" target=\"_blank\" rel=\"noopener\">Actividade8</a></p></div></div>","textFeedbackInput":"Ficheiro modelo","textFeedbackTextarea":"<p><a href=\"{{context_path}}/content/resources/actividade8.py\" title=\"actividade8.py\" target=\"_blank\" rel=\"noopener\">Actividade8</a></p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq6i0n68-v0n4m6q9d</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Actividade 09</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividade 09</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividade 9</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Actividade 09</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq6i0n68-v0n4m6q9d</odePageId>
+      <odeBlockId>block-1780995259984-rkjzbywgi</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq6i0n68-v0n4m6q9d</odePageId>
+          <odeBlockId>block-1780995259984-rkjzbywgi</odeBlockId>
+          <odeIdeviceId>idevice-1780995259985-ubwoyvp4g</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><p style="text-align: justify;"><span>Empregando o </span><a href="https://es.wikipedia.org/wiki/Entorno_de_desarrollo_integrado" target="_blank" title="" rel="noopener">IDE</a><span> de Python chamado </span><strong>Thonny</strong><span> ( </span><em>Aplicacións → Programación → Thonny<span> </span></em><span>), abre o ficheiro modelo adxunto máis abaixo co nome <strong>actividade9.py</strong> e gárdao como <strong>actividade9_OTeuNome.py</strong>. </span></p>
+<p style="text-align: justify;"><span>Sabendo que a letra que corresponde a un número de DNI vén dado pola posición numérica nunha determinada lista que xera o resto de dividir o número de DNI entre 23 (é dicir, o módulo 23 do número de DNI), crea a continuación un programa que cumpra os seguintes requisitos:</span></p>
+<ul style="text-align: justify;">
+<li title="actividade1.py">Ao comezo do ficheiro fonte deberá haber un comentario no que indiques o teu nome e apelidos, curso e grupo e número de actividade.</li>
+<li title="actividade1.py">Ao executar o programa deben aparecer dúas mensaxes na que o programa pregunte polo número de DNI (sen letra) do usuario. O programa deberá almacenar ese número nunha variable que chamaremos <em>num_dni</em>.</li>
+<li title="actividade1.py">A continuación o programa calculará para ese número o seu módulo 23 e asignaráo á variable <em>resto</em>.</li>
+<li title="actividade1.py">A partir da variable resto o programa deberá achar que letra corresponde na lista <em>letras_posibles_dni</em> coa posición dada pola variable <em>resto</em>. Este resultado almacenarémolo na variable <em>letra_dni</em>.</li>
+<li title="actividade1.py">Finalmente deberá aparecer en pantalla unha mensaxe na que informe de que letra corresponde co número introducido (na mensaxe ten que figurar tanto o número de DNI como a letra asignada).</li>
+</ul>
+<p style="text-align: justify;"><span style="color: #e03e2d;">Ao rematar de editar o código e comprobar o correcto funcionamento do teu programa, súbeo á correspondente tarefa da aula virtual.</span></p><div class="iDevice_buttons feedback-button js-required"><input type="button" class="feedbacktooglebutton" value="Ficheiro modelo" data-text-a="Ficheiro modelo" data-text-b="Ficheiro modelo"></div><div class="feedback js-feedback js-hidden" style="display: none;"><p><a href="{{context_path}}/content/resources/actividade9.py" title="actividade9.py" target="_blank" rel="noopener">Actividade9</a></p></div></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780995259985-ubwoyvp4g","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamento","textTextarea":"<div class=\"exe-text-activity\"><p style=\"text-align: justify;\"><span>Empregando o </span><a href=\"https://es.wikipedia.org/wiki/Entorno_de_desarrollo_integrado\" target=\"_blank\" title=\"\" rel=\"noopener\">IDE</a><span> de Python chamado </span><strong>Thonny</strong><span> ( </span><em>Aplicacións → Programación → Thonny<span> </span></em><span>), abre o ficheiro modelo adxunto máis abaixo co nome <strong>actividade9.py</strong> e gárdao como <strong>actividade9_OTeuNome.py</strong>. </span></p>\n<p style=\"text-align: justify;\"><span>Sabendo que a letra que corresponde a un número de DNI vén dado pola posición numérica nunha determinada lista que xera o resto de dividir o número de DNI entre 23 (é dicir, o módulo 23 do número de DNI), crea a continuación un programa que cumpra os seguintes requisitos:</span></p>\n<ul style=\"text-align: justify;\">\n<li title=\"actividade1.py\">Ao comezo do ficheiro fonte deberá haber un comentario no que indiques o teu nome e apelidos, curso e grupo e número de actividade.</li>\n<li title=\"actividade1.py\">Ao executar o programa deben aparecer dúas mensaxes na que o programa pregunte polo número de DNI (sen letra) do usuario. O programa deberá almacenar ese número nunha variable que chamaremos <em>num_dni</em>.</li>\n<li title=\"actividade1.py\">A continuación o programa calculará para ese número o seu módulo 23 e asignaráo á variable <em>resto</em>.</li>\n<li title=\"actividade1.py\">A partir da variable resto o programa deberá achar que letra corresponde na lista <em>letras_posibles_dni</em> coa posición dada pola variable <em>resto</em>. Este resultado almacenarémolo na variable <em>letra_dni</em>.</li>\n<li title=\"actividade1.py\">Finalmente deberá aparecer en pantalla unha mensaxe na que informe de que letra corresponde co número introducido (na mensaxe ten que figurar tanto o número de DNI como a letra asignada).</li>\n</ul>\n<p style=\"text-align: justify;\"><span style=\"color: #e03e2d;\">Ao rematar de editar o código e comprobar o correcto funcionamento do teu programa, súbeo á correspondente tarefa da aula virtual.</span></p><div class=\"iDevice_buttons feedback-button js-required\"><input type=\"button\" class=\"feedbacktooglebutton\" value=\"Ficheiro modelo\" data-text-a=\"Ficheiro modelo\" data-text-b=\"Ficheiro modelo\"></div><div class=\"feedback js-feedback js-hidden\" style=\"display: none;\"><p><a href=\"{{context_path}}/content/resources/actividade9.py\" title=\"actividade9.py\" target=\"_blank\" rel=\"noopener\">Actividade9</a></p></div></div>","textFeedbackInput":"Ficheiro modelo","textFeedbackTextarea":"<p><a href=\"{{context_path}}/content/resources/actividade9.py\" title=\"actividade9.py\" target=\"_blank\" rel=\"noopener\">Actividade9</a></p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq6i0n68-n6taoffc8</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Actividade 10</pageName>
+  <odeNavStructureOrder>9</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividade 10</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividade 10</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Actividade 10</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq6i0n68-n6taoffc8</odePageId>
+      <odeBlockId>block-1780998555528-lo96sc3u7</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq6i0n68-n6taoffc8</odePageId>
+          <odeBlockId>block-1780998555528-lo96sc3u7</odeBlockId>
+          <odeIdeviceId>idevice-1780998555529-paqaumo8g</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><p style="text-align: justify;"><span>Empregando o </span><a href="https://es.wikipedia.org/wiki/Entorno_de_desarrollo_integrado" target="_blank" title="" rel="noopener">IDE</a><span> de Python chamado </span><strong>Thonny</strong><span> ( </span><em>Aplicacións → Programación → Thonny<span> </span></em><span>), abre o ficheiro modelo adxunto máis abaixo co nome <strong>actividade10.py</strong> e gárdao como <strong>actividade10_OTeuNome.py</strong>. A continuación edita o programa para que cumpla os seguintes requisitos:</span></p>
+<ul style="text-align: justify;">
+<li title="actividade1.py">Ao comezo do ficheiro fonte deberá haber un comentario no que indiques o teu nome e apelidos, curso e grupo e número de actividade.</li>
+<li title="actividade1.py">Ao executar o programa debe aparecer unha mensaxe pedindo ao usuario un número entre 0 e 100.</li>
+<li title="actividade1.py">A continuación o programa calculará todos os números pares entre 0 e o número introducido polo usuario e amosaraos en pantalla.</li>
+</ul>
+<p style="text-align: justify;"><span style="color: #e03e2d;">Ao rematar de editar o código e comprobar o correcto funcionamento do teu programa, súbeo á correspondente tarefa da aula virtual.</span></p><div class="iDevice_buttons feedback-button js-required"><input type="button" class="feedbacktooglebutton" value="Ficheiro modelo" data-text-a="Ficheiro modelo" data-text-b="Ficheiro modelo"></div><div class="feedback js-feedback js-hidden" style="display: none;"><p><a href="{{context_path}}/content/resources/actividade10.py" title="actividade10.py" target="_blank" rel="noopener">Actividade10</a></p></div></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780998555529-paqaumo8g","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamento","textTextarea":"<div class=\"exe-text-activity\"><p style=\"text-align: justify;\"><span>Empregando o </span><a href=\"https://es.wikipedia.org/wiki/Entorno_de_desarrollo_integrado\" target=\"_blank\" title=\"\" rel=\"noopener\">IDE</a><span> de Python chamado </span><strong>Thonny</strong><span> ( </span><em>Aplicacións → Programación → Thonny<span> </span></em><span>), abre o ficheiro modelo adxunto máis abaixo co nome <strong>actividade10.py</strong> e gárdao como <strong>actividade10_OTeuNome.py</strong>. A continuación edita o programa para que cumpla os seguintes requisitos:</span></p>\n<ul style=\"text-align: justify;\">\n<li title=\"actividade1.py\">Ao comezo do ficheiro fonte deberá haber un comentario no que indiques o teu nome e apelidos, curso e grupo e número de actividade.</li>\n<li title=\"actividade1.py\">Ao executar o programa debe aparecer unha mensaxe pedindo ao usuario un número entre 0 e 100.</li>\n<li title=\"actividade1.py\">A continuación o programa calculará todos os números pares entre 0 e o número introducido polo usuario e amosaraos en pantalla.</li>\n</ul>\n<p style=\"text-align: justify;\"><span style=\"color: #e03e2d;\">Ao rematar de editar o código e comprobar o correcto funcionamento do teu programa, súbeo á correspondente tarefa da aula virtual.</span></p><div class=\"iDevice_buttons feedback-button js-required\"><input type=\"button\" class=\"feedbacktooglebutton\" value=\"Ficheiro modelo\" data-text-a=\"Ficheiro modelo\" data-text-b=\"Ficheiro modelo\"></div><div class=\"feedback js-feedback js-hidden\" style=\"display: none;\"><p><a href=\"{{context_path}}/content/resources/actividade10.py\" title=\"actividade10.py\" target=\"_blank\" rel=\"noopener\">Actividade10</a></p></div></div>","textFeedbackInput":"Ficheiro modelo","textFeedbackTextarea":"<p><a href=\"{{context_path}}/content/resources/actividade10.py\" title=\"actividade10.py\" target=\"_blank\" rel=\"noopener\">Actividade10</a></p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1781001043374-6no818im0</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Actividade 11</pageName>
+  <odeNavStructureOrder>10</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividade 11</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Actividade 11</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1781001043374-6no818im0</odePageId>
+      <odeBlockId>block-1781001043374-d1k9d9drc</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1781001043374-6no818im0</odePageId>
+          <odeBlockId>block-1781001043374-d1k9d9drc</odeBlockId>
+          <odeIdeviceId>idevice-1781001043375-t7sqkjukk</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><p style="text-align: justify;"><span>Empregando o </span><a href="https://es.wikipedia.org/wiki/Entorno_de_desarrollo_integrado" target="_blank" title="" rel="noopener">IDE</a><span> de Python chamado </span><strong>Thonny</strong><span> ( </span><em>Aplicacións → Programación → Thonny<span> </span></em><span>), abre o ficheiro modelo adxunto máis abaixo co nome <strong>actividade11.py</strong> e gárdao como <strong>actividade11_OTeuNome.py</strong>. A continuación edita o programa para que cumpla os seguintes requisitos:</span></p>
+<ul style="text-align: justify;">
+<li title="actividade1.py">Ao comezo do ficheiro fonte deberá haber un comentario no que indiques o teu nome e apelidos, curso e grupo e número de actividade.</li>
+<li title="actividade1.py">Ao executar o programa debe aparecer unha mensaxe pedindo ao usuario un número calquera.</li>
+<li title="actividade1.py">A continuación o programa informará en pantalla se ese número é par ou impar.</li>
+<li title="actividade1.py">Finalmente o programa preguntará se se quere probar con outro número ou rematar o programa. No caso de querer rematar o programa deberá amosar en pantalla unha mensaxe de despedida e a continuación rematar a execución.<br /></li>
+</ul>
+<p style="text-align: justify;"><span style="color: #e03e2d;">Ao rematar de editar o código e comprobar o correcto funcionamento do teu programa, súbeo á correspondente tarefa da aula virtual.</span></p><div class="iDevice_buttons feedback-button js-required"><input type="button" class="feedbacktooglebutton" value="Ficheiro modelo" data-text-a="Ficheiro modelo" data-text-b="Ficheiro modelo"></div><div class="feedback js-feedback js-hidden" style="display: none;"><p><a href="{{context_path}}/content/resources/actividade11.py" title="actividade11.py" target="_blank" rel="noopener">Actividade11</a></p></div></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1781001043375-t7sqkjukk","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamento","textTextarea":"<div class=\"exe-text-activity\"><p style=\"text-align: justify;\"><span>Empregando o </span><a href=\"https://es.wikipedia.org/wiki/Entorno_de_desarrollo_integrado\" target=\"_blank\" title=\"\" rel=\"noopener\">IDE</a><span> de Python chamado </span><strong>Thonny</strong><span> ( </span><em>Aplicacións → Programación → Thonny<span> </span></em><span>), abre o ficheiro modelo adxunto máis abaixo co nome <strong>actividade11.py</strong> e gárdao como <strong>actividade11_OTeuNome.py</strong>. A continuación edita o programa para que cumpla os seguintes requisitos:</span></p>\n<ul style=\"text-align: justify;\">\n<li title=\"actividade1.py\">Ao comezo do ficheiro fonte deberá haber un comentario no que indiques o teu nome e apelidos, curso e grupo e número de actividade.</li>\n<li title=\"actividade1.py\">Ao executar o programa debe aparecer unha mensaxe pedindo ao usuario un número calquera.</li>\n<li title=\"actividade1.py\">A continuación o programa informará en pantalla se ese número é par ou impar.</li>\n<li title=\"actividade1.py\">Finalmente o programa preguntará se se quere probar con outro número ou rematar o programa. No caso de querer rematar o programa deberá amosar en pantalla unha mensaxe de despedida e a continuación rematar a execución.<br /></li>\n</ul>\n<p style=\"text-align: justify;\"><span style=\"color: #e03e2d;\">Ao rematar de editar o código e comprobar o correcto funcionamento do teu programa, súbeo á correspondente tarefa da aula virtual.</span></p><div class=\"iDevice_buttons feedback-button js-required\"><input type=\"button\" class=\"feedbacktooglebutton\" value=\"Ficheiro modelo\" data-text-a=\"Ficheiro modelo\" data-text-b=\"Ficheiro modelo\"></div><div class=\"feedback js-feedback js-hidden\" style=\"display: none;\"><p><a href=\"{{context_path}}/content/resources/actividade11.py\" title=\"actividade11.py\" target=\"_blank\" rel=\"noopener\">Actividade11</a></p></div></div>","textFeedbackInput":"Ficheiro modelo","textFeedbackTextarea":"<p><a href=\"{{context_path}}/content/resources/actividade11.py\" title=\"actividade11.py\" target=\"_blank\" rel=\"noopener\">Actividade11</a></p>"}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
