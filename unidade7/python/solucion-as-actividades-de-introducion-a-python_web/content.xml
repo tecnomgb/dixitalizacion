@@ -52,7 +52,7 @@
   </odeProperty>
   <odeProperty>
     <key>pp_modified</key>
-    <value>1781032288971</value>
+    <value>1781084854710</value>
   </odeProperty>
   <odeProperty>
     <key>pp_addExeLink</key>
@@ -160,6 +160,8 @@
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-text-template">
     <div class="exe-text-activity"><p style="text-align: justify;"><strong>CÓDIGO:</strong></p>
+<div class="highlighted-code language-python">
+<div>
 <pre><code>#NOME E APELIDOS - CURSO - GRUPO- ACTIVIDADE1
 
 print('Bos días')
@@ -167,9 +169,10 @@ print('Bos días')
 print('Chámome Nome Apelidos')
 
 print('Estudo no IES Manuel García Barros 4º de ESO')</code></pre>
-<p style="text-align: justify;"><br /></p><div class="iDevice_buttons feedback-button js-required"><input type="button" class="feedbacktooglebutton" value="Ficheiro .py" data-text-a="Ficheiro .py" data-text-b="Ficheiro .py"></div><div class="feedback js-feedback js-hidden" style="display: none;"><p><a href="{{context_path}}/content/resources/actividade01_SOLUCION.py" title="actividade01_SOLUCION.py" target="_blank" rel="noopener">actividade01_SOLUCION.py</a></p></div></div>
+</div>
+</div><div class="iDevice_buttons feedback-button js-required"><input type="button" class="feedbacktooglebutton" value="Ficheiro .py" data-text-a="Ficheiro .py" data-text-b="Ficheiro .py"></div><div class="feedback js-feedback js-hidden" style="display: none;"><p><a href="{{context_path}}/content/resources/actividade01_SOLUCION.py" title="actividade01_SOLUCION.py" target="_blank" rel="noopener">actividade01_SOLUCION.py</a></p></div></div>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779790300747-c2cxszybq","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamento","textTextarea":"<div class=\"exe-text-activity\"><p style=\"text-align: justify;\"><strong>CÓDIGO:</strong></p>\n<pre><code>#NOME E APELIDOS - CURSO - GRUPO- ACTIVIDADE1\n\nprint('Bos días')\n\nprint('Chámome Nome Apelidos')\n\nprint('Estudo no IES Manuel García Barros 4º de ESO')</code></pre>\n<p style=\"text-align: justify;\"><br /></p><div class=\"iDevice_buttons feedback-button js-required\"><input type=\"button\" class=\"feedbacktooglebutton\" value=\"Ficheiro .py\" data-text-a=\"Ficheiro .py\" data-text-b=\"Ficheiro .py\"></div><div class=\"feedback js-feedback js-hidden\" style=\"display: none;\"><p><a href=\"{{context_path}}/content/resources/actividade01_SOLUCION.py\" title=\"actividade01_SOLUCION.py\" target=\"_blank\" rel=\"noopener\">actividade01_SOLUCION.py</a></p></div></div>","textFeedbackInput":"Ficheiro .py","textFeedbackTextarea":"<p><a href=\"{{context_path}}/content/resources/actividade01_SOLUCION.py\" title=\"actividade01_SOLUCION.py\" target=\"_blank\" rel=\"noopener\">actividade01_SOLUCION.py</a></p>"}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779790300747-c2cxszybq","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamento","textTextarea":"<div class=\"exe-text-activity\"><p style=\"text-align: justify;\"><strong>CÓDIGO:</strong></p>\n<div class=\"highlighted-code language-python\">\n<div>\n<pre><code>#NOME E APELIDOS - CURSO - GRUPO- ACTIVIDADE1\n\nprint('Bos días')\n\nprint('Chámome Nome Apelidos')\n\nprint('Estudo no IES Manuel García Barros 4º de ESO')</code></pre>\n</div>\n</div><div class=\"iDevice_buttons feedback-button js-required\"><input type=\"button\" class=\"feedbacktooglebutton\" value=\"Ficheiro .py\" data-text-a=\"Ficheiro .py\" data-text-b=\"Ficheiro .py\"></div><div class=\"feedback js-feedback js-hidden\" style=\"display: none;\"><p><a href=\"{{context_path}}/content/resources/actividade01_SOLUCION.py\" title=\"actividade01_SOLUCION.py\" target=\"_blank\" rel=\"noopener\">actividade01_SOLUCION.py</a></p></div></div>","textFeedbackInput":"Ficheiro .py","textFeedbackTextarea":"<p><a href=\"{{context_path}}/content/resources/actividade01_SOLUCION.py\" title=\"actividade01_SOLUCION.py\" target=\"_blank\" rel=\"noopener\">actividade01_SOLUCION.py</a></p>"}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
@@ -196,6 +199,26 @@ print('Estudo no IES Manuel García Barros 4º de ESO')</code></pre>
   <pageName>Actividade 02</pageName>
   <odeNavStructureOrder>1</odeNavStructureOrder>
   <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividade 02</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
     <odeNavStructureProperty>
       <key>titlePage</key>
       <value>Actividade 02</value>
@@ -242,6 +265,8 @@ print('Estudo no IES Manuel García Barros 4º de ESO')</code></pre>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-text-template">
     <div class="exe-text-activity"><p style="text-align: justify;"><strong>CÓDIGO:</strong></p>
+<div class="highlighted-code language-python">
+<div>
 <pre><code>#NOME E APELIDOS - CURSO - GRUPO- ACTIVIDADE2
 
 print('Bos días! Este é o programa da actividade 2 de Python')
@@ -249,9 +274,10 @@ print('Bos días! Este é o programa da actividade 2 de Python')
 nome_usuario = input('Dime o teu nome ')
 
 print('Ola',nome_usuario,'Grazas pola información')</code></pre>
-<p style="text-align: justify;"><br /></p><div class="iDevice_buttons feedback-button js-required"><input type="button" class="feedbacktooglebutton" value="Ficheiro .py" data-text-a="Ficheiro .py" data-text-b="Ficheiro .py"></div><div class="feedback js-feedback js-hidden" style="display: none;"><p><a href="{{context_path}}/content/resources/actividade02_SOLUCION.py" title="actividade02_SOLUCION.py" target="_blank" rel="noopener">actividade02_SOLUCION.py</a></p></div></div>
+</div>
+</div><div class="iDevice_buttons feedback-button js-required"><input type="button" class="feedbacktooglebutton" value="Ficheiro .py" data-text-a="Ficheiro .py" data-text-b="Ficheiro .py"></div><div class="feedback js-feedback js-hidden" style="display: none;"><p><a href="{{context_path}}/content/resources/actividade02_SOLUCION.py" title="actividade02_SOLUCION.py" target="_blank" rel="noopener">actividade02_SOLUCION.py</a></p></div></div>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-mq70wfld-cfbpfebbo","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamento","textTextarea":"<div class=\"exe-text-activity\"><p style=\"text-align: justify;\"><strong>CÓDIGO:</strong></p>\n<pre><code>#NOME E APELIDOS - CURSO - GRUPO- ACTIVIDADE2\n\nprint('Bos días! Este é o programa da actividade 2 de Python')\n\nnome_usuario = input('Dime o teu nome ')\n\nprint('Ola',nome_usuario,'Grazas pola información')</code></pre>\n<p style=\"text-align: justify;\"><br /></p><div class=\"iDevice_buttons feedback-button js-required\"><input type=\"button\" class=\"feedbacktooglebutton\" value=\"Ficheiro .py\" data-text-a=\"Ficheiro .py\" data-text-b=\"Ficheiro .py\"></div><div class=\"feedback js-feedback js-hidden\" style=\"display: none;\"><p><a href=\"{{context_path}}/content/resources/actividade02_SOLUCION.py\" title=\"actividade02_SOLUCION.py\" target=\"_blank\" rel=\"noopener\">actividade02_SOLUCION.py</a></p></div></div>","textFeedbackInput":"Ficheiro .py","textFeedbackTextarea":"<p><a href=\"{{context_path}}/content/resources/actividade02_SOLUCION.py\" title=\"actividade02_SOLUCION.py\" target=\"_blank\" rel=\"noopener\">actividade02_SOLUCION.py</a></p>"}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mq70wfld-cfbpfebbo","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamento","textTextarea":"<div class=\"exe-text-activity\"><p style=\"text-align: justify;\"><strong>CÓDIGO:</strong></p>\n<div class=\"highlighted-code language-python\">\n<div>\n<pre><code>#NOME E APELIDOS - CURSO - GRUPO- ACTIVIDADE2\n\nprint('Bos días! Este é o programa da actividade 2 de Python')\n\nnome_usuario = input('Dime o teu nome ')\n\nprint('Ola',nome_usuario,'Grazas pola información')</code></pre>\n</div>\n</div><div class=\"iDevice_buttons feedback-button js-required\"><input type=\"button\" class=\"feedbacktooglebutton\" value=\"Ficheiro .py\" data-text-a=\"Ficheiro .py\" data-text-b=\"Ficheiro .py\"></div><div class=\"feedback js-feedback js-hidden\" style=\"display: none;\"><p><a href=\"{{context_path}}/content/resources/actividade02_SOLUCION.py\" title=\"actividade02_SOLUCION.py\" target=\"_blank\" rel=\"noopener\">actividade02_SOLUCION.py</a></p></div></div>","textFeedbackInput":"Ficheiro .py","textFeedbackTextarea":"<p><a href=\"{{context_path}}/content/resources/actividade02_SOLUCION.py\" title=\"actividade02_SOLUCION.py\" target=\"_blank\" rel=\"noopener\">actividade02_SOLUCION.py</a></p>"}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
@@ -278,6 +304,26 @@ print('Ola',nome_usuario,'Grazas pola información')</code></pre>
   <pageName>Actividade 03</pageName>
   <odeNavStructureOrder>2</odeNavStructureOrder>
   <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividade 03</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
     <odeNavStructureProperty>
       <key>titlePage</key>
       <value>Actividade 03</value>
@@ -324,6 +370,8 @@ print('Ola',nome_usuario,'Grazas pola información')</code></pre>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-text-template">
     <div class="exe-text-activity"><p style="text-align: justify;"><strong>CÓDIGO:</strong></p>
+<div class="highlighted-code language-python">
+<div>
 <pre><code>#NOME E APELIDOS - CURSO - GRUPO- ACTIVIDADE3
 
 print('Bos días! Este é o programa da actividade 3 de Python')
@@ -333,9 +381,10 @@ nacemento_usuario = int(input('En que ano naciches? '))
 idade_usuario = 2026-nacemento_usuario
 
 print('Grazas pola información. Segundo os meus cálculos tes',idade_usuario,'anos')</code></pre>
-<p style="text-align: justify;"><br /></p><div class="iDevice_buttons feedback-button js-required"><input type="button" class="feedbacktooglebutton" value="Ficheiro .py" data-text-a="Ficheiro .py" data-text-b="Ficheiro .py"></div><div class="feedback js-feedback js-hidden" style="display: none;"><p><a href="{{context_path}}/content/resources/actividade03_SOLUCION.py" title="actividade03_SOLUCION.py" target="_blank" rel="noopener">actividade03_SOLUCION.py</a></p></div></div>
+</div>
+</div><div class="iDevice_buttons feedback-button js-required"><input type="button" class="feedbacktooglebutton" value="Ficheiro .py" data-text-a="Ficheiro .py" data-text-b="Ficheiro .py"></div><div class="feedback js-feedback js-hidden" style="display: none;"><p><a href="{{context_path}}/content/resources/actividade03_SOLUCION.py" title="actividade03_SOLUCION.py" target="_blank" rel="noopener">actividade03_SOLUCION.py</a></p></div></div>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-mq70y8bk-6ya760fj6","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamento","textTextarea":"<div class=\"exe-text-activity\"><p style=\"text-align: justify;\"><strong>CÓDIGO:</strong></p>\n<pre><code>#NOME E APELIDOS - CURSO - GRUPO- ACTIVIDADE3\n\nprint('Bos días! Este é o programa da actividade 3 de Python')\n\nnacemento_usuario = int(input('En que ano naciches? '))\n\nidade_usuario = 2026-nacemento_usuario\n\nprint('Grazas pola información. Segundo os meus cálculos tes',idade_usuario,'anos')</code></pre>\n<p style=\"text-align: justify;\"><br /></p><div class=\"iDevice_buttons feedback-button js-required\"><input type=\"button\" class=\"feedbacktooglebutton\" value=\"Ficheiro .py\" data-text-a=\"Ficheiro .py\" data-text-b=\"Ficheiro .py\"></div><div class=\"feedback js-feedback js-hidden\" style=\"display: none;\"><p><a href=\"{{context_path}}/content/resources/actividade03_SOLUCION.py\" title=\"actividade03_SOLUCION.py\" target=\"_blank\" rel=\"noopener\">actividade03_SOLUCION.py</a></p></div></div>","textFeedbackInput":"Ficheiro .py","textFeedbackTextarea":"<p><a href=\"{{context_path}}/content/resources/actividade03_SOLUCION.py\" title=\"actividade03_SOLUCION.py\" target=\"_blank\" rel=\"noopener\">actividade03_SOLUCION.py</a></p>"}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mq70y8bk-6ya760fj6","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamento","textTextarea":"<div class=\"exe-text-activity\"><p style=\"text-align: justify;\"><strong>CÓDIGO:</strong></p>\n<div class=\"highlighted-code language-python\">\n<div>\n<pre><code>#NOME E APELIDOS - CURSO - GRUPO- ACTIVIDADE3\n\nprint('Bos días! Este é o programa da actividade 3 de Python')\n\nnacemento_usuario = int(input('En que ano naciches? '))\n\nidade_usuario = 2026-nacemento_usuario\n\nprint('Grazas pola información. Segundo os meus cálculos tes',idade_usuario,'anos')</code></pre>\n</div>\n</div><div class=\"iDevice_buttons feedback-button js-required\"><input type=\"button\" class=\"feedbacktooglebutton\" value=\"Ficheiro .py\" data-text-a=\"Ficheiro .py\" data-text-b=\"Ficheiro .py\"></div><div class=\"feedback js-feedback js-hidden\" style=\"display: none;\"><p><a href=\"{{context_path}}/content/resources/actividade03_SOLUCION.py\" title=\"actividade03_SOLUCION.py\" target=\"_blank\" rel=\"noopener\">actividade03_SOLUCION.py</a></p></div></div>","textFeedbackInput":"Ficheiro .py","textFeedbackTextarea":"<p><a href=\"{{context_path}}/content/resources/actividade03_SOLUCION.py\" title=\"actividade03_SOLUCION.py\" target=\"_blank\" rel=\"noopener\">actividade03_SOLUCION.py</a></p>"}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
@@ -362,6 +411,26 @@ print('Grazas pola información. Segundo os meus cálculos tes',idade_usuario,'a
   <pageName>Actividade 04</pageName>
   <odeNavStructureOrder>3</odeNavStructureOrder>
   <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividade 04</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
     <odeNavStructureProperty>
       <key>titlePage</key>
       <value>Actividade 04</value>
@@ -408,6 +477,8 @@ print('Grazas pola información. Segundo os meus cálculos tes',idade_usuario,'a
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-text-template">
     <div class="exe-text-activity"><p style="text-align: justify;"><strong>CÓDIGO:</strong></p>
+<div class="highlighted-code language-python">
+<div>
 <pre><code>#NOME E APELIDOS - CURSO - GRUPO- ACTIVIDADE4
 
 print('Este programa é quen de realizar a súma de dous números')
@@ -419,9 +490,10 @@ b = int(input('Dime o segundo número '))
 suma = a + b
 
 print('O resultado da suma dos dous números é',suma)</code></pre>
-<p style="text-align: justify;"><br /></p><div class="iDevice_buttons feedback-button js-required"><input type="button" class="feedbacktooglebutton" value="Ficheiro .py" data-text-a="Ficheiro .py" data-text-b="Ficheiro .py"></div><div class="feedback js-feedback js-hidden" style="display: none;"><p><a href="{{context_path}}/content/resources/actividade04_SOLUCION.py" title="actividade04_SOLUCION.py" target="_blank" rel="noopener">actividade04_SOLUCION.py</a></p></div></div>
+</div>
+</div><div class="iDevice_buttons feedback-button js-required"><input type="button" class="feedbacktooglebutton" value="Ficheiro .py" data-text-a="Ficheiro .py" data-text-b="Ficheiro .py"></div><div class="feedback js-feedback js-hidden" style="display: none;"><p><a href="{{context_path}}/content/resources/actividade04_SOLUCION.py" title="actividade04_SOLUCION.py" target="_blank" rel="noopener">actividade04_SOLUCION.py</a></p></div></div>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-mq70zk8b-ixzmhkvvq","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamento","textTextarea":"<div class=\"exe-text-activity\"><p style=\"text-align: justify;\"><strong>CÓDIGO:</strong></p>\n<pre><code>#NOME E APELIDOS - CURSO - GRUPO- ACTIVIDADE4\n\nprint('Este programa é quen de realizar a súma de dous números')\n\na = int(input('Dime o primeiro número '))\n\nb = int(input('Dime o segundo número '))\n\nsuma = a + b\n\nprint('O resultado da suma dos dous números é',suma)</code></pre>\n<p style=\"text-align: justify;\"><br /></p><div class=\"iDevice_buttons feedback-button js-required\"><input type=\"button\" class=\"feedbacktooglebutton\" value=\"Ficheiro .py\" data-text-a=\"Ficheiro .py\" data-text-b=\"Ficheiro .py\"></div><div class=\"feedback js-feedback js-hidden\" style=\"display: none;\"><p><a href=\"{{context_path}}/content/resources/actividade04_SOLUCION.py\" title=\"actividade04_SOLUCION.py\" target=\"_blank\" rel=\"noopener\">actividade04_SOLUCION.py</a></p></div></div>","textFeedbackInput":"Ficheiro .py","textFeedbackTextarea":"<p><a href=\"{{context_path}}/content/resources/actividade04_SOLUCION.py\" title=\"actividade04_SOLUCION.py\" target=\"_blank\" rel=\"noopener\">actividade04_SOLUCION.py</a></p>"}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mq70zk8b-ixzmhkvvq","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamento","textTextarea":"<div class=\"exe-text-activity\"><p style=\"text-align: justify;\"><strong>CÓDIGO:</strong></p>\n<div class=\"highlighted-code language-python\">\n<div>\n<pre><code>#NOME E APELIDOS - CURSO - GRUPO- ACTIVIDADE4\n\nprint('Este programa é quen de realizar a súma de dous números')\n\na = int(input('Dime o primeiro número '))\n\nb = int(input('Dime o segundo número '))\n\nsuma = a + b\n\nprint('O resultado da suma dos dous números é',suma)</code></pre>\n</div>\n</div><div class=\"iDevice_buttons feedback-button js-required\"><input type=\"button\" class=\"feedbacktooglebutton\" value=\"Ficheiro .py\" data-text-a=\"Ficheiro .py\" data-text-b=\"Ficheiro .py\"></div><div class=\"feedback js-feedback js-hidden\" style=\"display: none;\"><p><a href=\"{{context_path}}/content/resources/actividade04_SOLUCION.py\" title=\"actividade04_SOLUCION.py\" target=\"_blank\" rel=\"noopener\">actividade04_SOLUCION.py</a></p></div></div>","textFeedbackInput":"Ficheiro .py","textFeedbackTextarea":"<p><a href=\"{{context_path}}/content/resources/actividade04_SOLUCION.py\" title=\"actividade04_SOLUCION.py\" target=\"_blank\" rel=\"noopener\">actividade04_SOLUCION.py</a></p>"}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
@@ -448,6 +520,26 @@ print('O resultado da suma dos dous números é',suma)</code></pre>
   <pageName>Actividade 05</pageName>
   <odeNavStructureOrder>4</odeNavStructureOrder>
   <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividade 05</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
     <odeNavStructureProperty>
       <key>titlePage</key>
       <value>Actividade 05</value>
@@ -494,6 +586,8 @@ print('O resultado da suma dos dous números é',suma)</code></pre>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-text-template">
     <div class="exe-text-activity"><p style="text-align: justify;"><strong>CÓDIGO:</strong></p>
+<div class="highlighted-code language-python">
+<div>
 <pre><code>#NOME E APELIDOS - CURSO - GRUPO- ACTIVIDADE5
 
 print('Este programa é quen de saber se un número é positivo ou negativo')
@@ -504,9 +598,10 @@ if(num&gt;=0):
     print("O número",num,"é positivo")
 else:
     print("O número",num,"é negativo")</code></pre>
-<p style="text-align: justify;"><br /></p><div class="iDevice_buttons feedback-button js-required"><input type="button" class="feedbacktooglebutton" value="Ficheiro .py" data-text-a="Ficheiro .py" data-text-b="Ficheiro .py"></div><div class="feedback js-feedback js-hidden" style="display: none;"><p><a href="{{context_path}}/content/resources/actividade05_SOLUCION.py" title="actividade05_SOLUCION.py" target="_blank" rel="noopener">actividade05_SOLUCION.py</a></p></div></div>
+</div>
+</div><div class="iDevice_buttons feedback-button js-required"><input type="button" class="feedbacktooglebutton" value="Ficheiro .py" data-text-a="Ficheiro .py" data-text-b="Ficheiro .py"></div><div class="feedback js-feedback js-hidden" style="display: none;"><p><a href="{{context_path}}/content/resources/actividade05_SOLUCION.py" title="actividade05_SOLUCION.py" target="_blank" rel="noopener">actividade05_SOLUCION.py</a></p></div></div>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-mq711q57-23grscy9l","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamento","textTextarea":"<div class=\"exe-text-activity\"><p style=\"text-align: justify;\"><strong>CÓDIGO:</strong></p>\n<pre><code>#NOME E APELIDOS - CURSO - GRUPO- ACTIVIDADE5\n\nprint('Este programa é quen de saber se un número é positivo ou negativo')\n\nnum = int(input('Introduce un número entre -100 e  100: '))\n\nif(num&gt;=0):\n    print(\"O número\",num,\"é positivo\")\nelse:\n    print(\"O número\",num,\"é negativo\")</code></pre>\n<p style=\"text-align: justify;\"><br /></p><div class=\"iDevice_buttons feedback-button js-required\"><input type=\"button\" class=\"feedbacktooglebutton\" value=\"Ficheiro .py\" data-text-a=\"Ficheiro .py\" data-text-b=\"Ficheiro .py\"></div><div class=\"feedback js-feedback js-hidden\" style=\"display: none;\"><p><a href=\"{{context_path}}/content/resources/actividade05_SOLUCION.py\" title=\"actividade05_SOLUCION.py\" target=\"_blank\" rel=\"noopener\">actividade05_SOLUCION.py</a></p></div></div>","textFeedbackInput":"Ficheiro .py","textFeedbackTextarea":"<p><a href=\"{{context_path}}/content/resources/actividade05_SOLUCION.py\" title=\"actividade05_SOLUCION.py\" target=\"_blank\" rel=\"noopener\">actividade05_SOLUCION.py</a></p>"}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mq711q57-23grscy9l","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamento","textTextarea":"<div class=\"exe-text-activity\"><p style=\"text-align: justify;\"><strong>CÓDIGO:</strong></p>\n<div class=\"highlighted-code language-python\">\n<div>\n<pre><code>#NOME E APELIDOS - CURSO - GRUPO- ACTIVIDADE5\n\nprint('Este programa é quen de saber se un número é positivo ou negativo')\n\nnum = int(input('Introduce un número entre -100 e  100: '))\n\nif(num&gt;=0):\n    print(\"O número\",num,\"é positivo\")\nelse:\n    print(\"O número\",num,\"é negativo\")</code></pre>\n</div>\n</div><div class=\"iDevice_buttons feedback-button js-required\"><input type=\"button\" class=\"feedbacktooglebutton\" value=\"Ficheiro .py\" data-text-a=\"Ficheiro .py\" data-text-b=\"Ficheiro .py\"></div><div class=\"feedback js-feedback js-hidden\" style=\"display: none;\"><p><a href=\"{{context_path}}/content/resources/actividade05_SOLUCION.py\" title=\"actividade05_SOLUCION.py\" target=\"_blank\" rel=\"noopener\">actividade05_SOLUCION.py</a></p></div></div>","textFeedbackInput":"Ficheiro .py","textFeedbackTextarea":"<p><a href=\"{{context_path}}/content/resources/actividade05_SOLUCION.py\" title=\"actividade05_SOLUCION.py\" target=\"_blank\" rel=\"noopener\">actividade05_SOLUCION.py</a></p>"}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
@@ -533,6 +628,26 @@ else:
   <pageName>Actividade 06</pageName>
   <odeNavStructureOrder>5</odeNavStructureOrder>
   <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividade 06</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
     <odeNavStructureProperty>
       <key>titlePage</key>
       <value>Actividade 06</value>
@@ -579,6 +694,8 @@ else:
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-text-template">
     <div class="exe-text-activity"><p style="text-align: justify;"><strong>CÓDIGO:</strong></p>
+<div class="highlighted-code language-python">
+<div>
 <pre><code>#NOME E APELIDOS - CURSO - GRUPO- ACTIVIDADE6
 
 print('Este programa é quen de saber se un número é par ou impar')
@@ -591,9 +708,10 @@ if(modulo==0):
     print("O número",num,"é par")
 else:
     print("O número",num,"é impar")</code></pre>
-<p style="text-align: justify;"><br /></p><div class="iDevice_buttons feedback-button js-required"><input type="button" class="feedbacktooglebutton" value="Ficheiro .py" data-text-a="Ficheiro .py" data-text-b="Ficheiro .py"></div><div class="feedback js-feedback js-hidden" style="display: none;"><p><a href="{{context_path}}/content/resources/actividade06_SOLUCION.py" title="actividade06_SOLUCION.py" target="_blank" rel="noopener">actividade06_SOLUCION.py</a></p></div></div>
+</div>
+</div><div class="iDevice_buttons feedback-button js-required"><input type="button" class="feedbacktooglebutton" value="Ficheiro .py" data-text-a="Ficheiro .py" data-text-b="Ficheiro .py"></div><div class="feedback js-feedback js-hidden" style="display: none;"><p><a href="{{context_path}}/content/resources/actividade06_SOLUCION.py" title="actividade06_SOLUCION.py" target="_blank" rel="noopener">actividade06_SOLUCION.py</a></p></div></div>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-mq713889-k7dckv1za","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamento","textTextarea":"<div class=\"exe-text-activity\"><p style=\"text-align: justify;\"><strong>CÓDIGO:</strong></p>\n<pre><code>#NOME E APELIDOS - CURSO - GRUPO- ACTIVIDADE6\n\nprint('Este programa é quen de saber se un número é par ou impar')\n\nnum = int(input('Introduce un número calquera: '))\n\nmodulo = num%2\n\nif(modulo==0):\n    print(\"O número\",num,\"é par\")\nelse:\n    print(\"O número\",num,\"é impar\")</code></pre>\n<p style=\"text-align: justify;\"><br /></p><div class=\"iDevice_buttons feedback-button js-required\"><input type=\"button\" class=\"feedbacktooglebutton\" value=\"Ficheiro .py\" data-text-a=\"Ficheiro .py\" data-text-b=\"Ficheiro .py\"></div><div class=\"feedback js-feedback js-hidden\" style=\"display: none;\"><p><a href=\"{{context_path}}/content/resources/actividade06_SOLUCION.py\" title=\"actividade06_SOLUCION.py\" target=\"_blank\" rel=\"noopener\">actividade06_SOLUCION.py</a></p></div></div>","textFeedbackInput":"Ficheiro .py","textFeedbackTextarea":"<p><a href=\"{{context_path}}/content/resources/actividade06_SOLUCION.py\" title=\"actividade06_SOLUCION.py\" target=\"_blank\" rel=\"noopener\">actividade06_SOLUCION.py</a></p>"}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mq713889-k7dckv1za","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamento","textTextarea":"<div class=\"exe-text-activity\"><p style=\"text-align: justify;\"><strong>CÓDIGO:</strong></p>\n<div class=\"highlighted-code language-python\">\n<div>\n<pre><code>#NOME E APELIDOS - CURSO - GRUPO- ACTIVIDADE6\n\nprint('Este programa é quen de saber se un número é par ou impar')\n\nnum = int(input('Introduce un número calquera: '))\n\nmodulo = num%2\n\nif(modulo==0):\n    print(\"O número\",num,\"é par\")\nelse:\n    print(\"O número\",num,\"é impar\")</code></pre>\n</div>\n</div><div class=\"iDevice_buttons feedback-button js-required\"><input type=\"button\" class=\"feedbacktooglebutton\" value=\"Ficheiro .py\" data-text-a=\"Ficheiro .py\" data-text-b=\"Ficheiro .py\"></div><div class=\"feedback js-feedback js-hidden\" style=\"display: none;\"><p><a href=\"{{context_path}}/content/resources/actividade06_SOLUCION.py\" title=\"actividade06_SOLUCION.py\" target=\"_blank\" rel=\"noopener\">actividade06_SOLUCION.py</a></p></div></div>","textFeedbackInput":"Ficheiro .py","textFeedbackTextarea":"<p><a href=\"{{context_path}}/content/resources/actividade06_SOLUCION.py\" title=\"actividade06_SOLUCION.py\" target=\"_blank\" rel=\"noopener\">actividade06_SOLUCION.py</a></p>"}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
@@ -620,6 +738,26 @@ else:
   <pageName>Actividade 07</pageName>
   <odeNavStructureOrder>6</odeNavStructureOrder>
   <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividade 07</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
     <odeNavStructureProperty>
       <key>titlePage</key>
       <value>Actividade 07</value>
@@ -666,6 +804,8 @@ else:
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-text-template">
     <div class="exe-text-activity"><p style="text-align: justify;"><strong>CÓDIGO:</strong></p>
+<div class="highlighted-code language-python">
+<div>
 <pre><code>#NOME E APELIDOS - CURSO - GRUPO- ACTIVIDADE7
 
 print('Canta xente está invitada á festa fin de curso?')
@@ -679,9 +819,10 @@ if num_persoas &gt;= 5: #caso entre 5 e 30
         print('Número de persoas excesivo. Non se pode celebrar a festa') #caso maior de 30
 else:
     print('Número de persoas insuficiente. Non se pode celebrar a festa') #caso menor que 5</code></pre>
-<p style="text-align: justify;"><br /></p><div class="iDevice_buttons feedback-button js-required"><input type="button" class="feedbacktooglebutton" value="Ficheiro .py" data-text-a="Ficheiro .py" data-text-b="Ficheiro .py"></div><div class="feedback js-feedback js-hidden" style="display: none;"><p><a href="{{context_path}}/content/resources/actividade07_SOLUCION.py" title="actividade07_SOLUCION.py" target="_blank" rel="noopener">actividade07_SOLUCION.py</a></p></div></div>
+</div>
+</div><div class="iDevice_buttons feedback-button js-required"><input type="button" class="feedbacktooglebutton" value="Ficheiro .py" data-text-a="Ficheiro .py" data-text-b="Ficheiro .py"></div><div class="feedback js-feedback js-hidden" style="display: none;"><p><a href="{{context_path}}/content/resources/actividade07_SOLUCION.py" title="actividade07_SOLUCION.py" target="_blank" rel="noopener">actividade07_SOLUCION.py</a></p></div></div>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-mq714if9-qf042ct6b","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamento","textTextarea":"<div class=\"exe-text-activity\"><p style=\"text-align: justify;\"><strong>CÓDIGO:</strong></p>\n<pre><code>#NOME E APELIDOS - CURSO - GRUPO- ACTIVIDADE7\n\nprint('Canta xente está invitada á festa fin de curso?')\n\nnum_persoas= int(input())\n\nif num_persoas &gt;= 5: #caso entre 5 e 30\n    if num_persoas &lt;= 30:\n        print('Número de persoas correcto. Pódese celebrar a festa') #caso entre 5 e 30\n    else:\n        print('Número de persoas excesivo. Non se pode celebrar a festa') #caso maior de 30\nelse:\n    print('Número de persoas insuficiente. Non se pode celebrar a festa') #caso menor que 5</code></pre>\n<p style=\"text-align: justify;\"><br /></p><div class=\"iDevice_buttons feedback-button js-required\"><input type=\"button\" class=\"feedbacktooglebutton\" value=\"Ficheiro .py\" data-text-a=\"Ficheiro .py\" data-text-b=\"Ficheiro .py\"></div><div class=\"feedback js-feedback js-hidden\" style=\"display: none;\"><p><a href=\"{{context_path}}/content/resources/actividade07_SOLUCION.py\" title=\"actividade07_SOLUCION.py\" target=\"_blank\" rel=\"noopener\">actividade07_SOLUCION.py</a></p></div></div>","textFeedbackInput":"Ficheiro .py","textFeedbackTextarea":"<p><a href=\"{{context_path}}/content/resources/actividade07_SOLUCION.py\" title=\"actividade07_SOLUCION.py\" target=\"_blank\" rel=\"noopener\">actividade07_SOLUCION.py</a></p>"}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mq714if9-qf042ct6b","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamento","textTextarea":"<div class=\"exe-text-activity\"><p style=\"text-align: justify;\"><strong>CÓDIGO:</strong></p>\n<div class=\"highlighted-code language-python\">\n<div>\n<pre><code>#NOME E APELIDOS - CURSO - GRUPO- ACTIVIDADE7\n\nprint('Canta xente está invitada á festa fin de curso?')\n\nnum_persoas= int(input())\n\nif num_persoas &gt;= 5: #caso entre 5 e 30\n    if num_persoas &lt;= 30:\n        print('Número de persoas correcto. Pódese celebrar a festa') #caso entre 5 e 30\n    else:\n        print('Número de persoas excesivo. Non se pode celebrar a festa') #caso maior de 30\nelse:\n    print('Número de persoas insuficiente. Non se pode celebrar a festa') #caso menor que 5</code></pre>\n</div>\n</div><div class=\"iDevice_buttons feedback-button js-required\"><input type=\"button\" class=\"feedbacktooglebutton\" value=\"Ficheiro .py\" data-text-a=\"Ficheiro .py\" data-text-b=\"Ficheiro .py\"></div><div class=\"feedback js-feedback js-hidden\" style=\"display: none;\"><p><a href=\"{{context_path}}/content/resources/actividade07_SOLUCION.py\" title=\"actividade07_SOLUCION.py\" target=\"_blank\" rel=\"noopener\">actividade07_SOLUCION.py</a></p></div></div>","textFeedbackInput":"Ficheiro .py","textFeedbackTextarea":"<p><a href=\"{{context_path}}/content/resources/actividade07_SOLUCION.py\" title=\"actividade07_SOLUCION.py\" target=\"_blank\" rel=\"noopener\">actividade07_SOLUCION.py</a></p>"}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
